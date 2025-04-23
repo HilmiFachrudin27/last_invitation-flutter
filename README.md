@@ -1,6 +1,6 @@
 # lastinvitation
 
-A new Flutter project.
+2nd flutter project only UI.
 
 ## Getting Started
 
